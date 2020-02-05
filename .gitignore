@@ -2,7 +2,7 @@ node_modules
 images
 js
 dist
-.eslint
+.eslinttrc.js
 debug.log
 package-lock.json
 style.css
